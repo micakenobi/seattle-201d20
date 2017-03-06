@@ -1,0 +1,3 @@
+var foo='bar';
+
+// THIS IS A COMMENT. YOU'LL LEARN ABOUT THIS LATER.
