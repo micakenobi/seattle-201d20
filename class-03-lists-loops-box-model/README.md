@@ -92,8 +92,6 @@ Code review is an important part of professional development processes and also 
 
 ## Git Branches & Lab Prep
 
-[Slides on using branches in Git](slides/git-branching.pdf)
-
 We're going to go over the use of branches in Git and how that integrates into workflow. Up to this point we've been doing everything in the master branch, but from this day forward, you should generally never work in master on your own laptop except in specific use cases.
 
 [-top-](#top)
