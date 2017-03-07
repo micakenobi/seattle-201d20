@@ -3,9 +3,7 @@
 <a id="top"></a>
 # Today's Plan: Week 1, Wednesday Lecture
 
-##### Quiz 1 will be published after lab today and will be due at 11:59pm tomorrow (Thursday 6/16) night
-
-##### Quiz 2 will be published after lab tomorrow and will be due at 11:59pm Friday night
+##### Quiz 2 will be published after lab today and will be due at 11:59pm tomorrow (Thursday night
 
 ####Announcements
 
@@ -46,7 +44,9 @@ We're not going to go over the chapter on HTML lists in much detail in class but
 <a id="codereview"></a>
 ## **Code Review**
 
-Let's take about 30 minutes to do our first code review session. We're going to look at someone's code, have students read through it and explain it, take questions, and so on. Code review is an important part of professional development processes and also a key part of our learning environment in this course.
+Let's take about 30 minutes to do our code review session.
+We're going to look at someone's code, have students read through it and explain it, take questions, and so on.
+Code review is an important part of professional development processes and also a key part of our learning environment in this course.
 
 [-top-](#top)
 
