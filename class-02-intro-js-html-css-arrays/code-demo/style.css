@@ -1,0 +1,33 @@
+body {
+  font-family: Montserrat;
+  color: #004eff;
+}
+.white-txt {
+  color: white;
+  background-color: orange;
+}
+p {
+  background-color: black!important;
+}
+p {
+  background-color: blue;
+}
+p {
+  color: green;
+}
+p {
+  border: 1px solid red;
+}
+p {
+  text-decoration: underline;
+}
+
+section {
+  width: 100px;
+  height: 100px;
+  border-radius: 100%;
+}
+#red-circle {
+  background-color: red;
+  border: 1px solid blue;
+}
