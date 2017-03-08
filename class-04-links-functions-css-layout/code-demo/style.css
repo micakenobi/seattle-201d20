@@ -1,0 +1,34 @@
+* {
+  border: 1px solid red;
+}
+
+#one {
+  text-align: center;
+  box-sizing: border-box;
+  width: 50%;
+  height: 300px;
+  overflow: hidden;
+  /*padding: 0px;*/ /* all sides */
+  /*padding: 0 100px 200px 300px; /* top right bottom left */*/
+  /*margin: 50px 80px 30px;*/ /* top right+left bottom  */
+  margin: 50px 80px; /* top+bottom left+right*/
+  min-width: 300px;
+  background-color: black;
+  color: white;
+  border-color: yellow;
+  border-width: 50px;
+  border-style: solid;
+  /*visibility: hidden;*/
+  opacity: 0;
+}
+
+#two {
+  width: 200px;
+  padding: 50px;
+  display: none;
+}
+
+#trés {
+  border-radius: 10px;
+  border: 1px solid black;
+}
