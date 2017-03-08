@@ -3,9 +3,7 @@
 <a id="top"></a>
 # Today's Plan: Week 1, Thursday Lecture
 
-#### Quiz 1 is due at 11:59p tonight (Thursday).
-
-#### Quiz 2 will be published after lab today and will be due tomorrow (Friday) night.
+#### Quiz 2 is due tonight.
 
 - Announcements
 
