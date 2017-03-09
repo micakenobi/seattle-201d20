@@ -85,7 +85,7 @@ As a result of completing Day 5 of Code 201, students will:
 
 It's time to take a look at branching in Git. We'll start with some slides:
 
-[Slides are here!](slides/5-git-branching.pdf)
+[Slides are here!](../class-01-toolbelt-terminal-git/slides/5-git-branching.pdf)
 
 We'll also go over the commands and do some practice with Git branches together in our terminals.
 
