@@ -28,7 +28,7 @@ Write a function called multiply() that takes in two numbers as arguments and re
 Test this function by hand in the console to get it working, and when you think it is finished, uncomment the call for the testMultiply() function and see if the test passes.*/
 
 // Write your code here
-function multiply (a,b) {
+function multiply(a,b) {
   var c = a * b;
   var returnString = 'The product of ' + a + ' and ' + b + ' is ' + c + '.';
   return [c, returnString];
@@ -105,11 +105,17 @@ IMPORTANT DETAIL: You may not use the arithmetic operator * in this function. To
 Test this function by hand in the console to get it working, and when you think it is finished, uncomment the call for the testMultiplyArray() function and see if the test passes.*/
 
 // Write your code here
-function multiplyArray(testArray){ //eslint-disable-line
+function multiplyArray(testArray){
+  var runningMultiply = 1;
+  for (var i = 0; i < testArray.length; i++){
+    runningMultiply = multiply(runningMultiply, testArray[i])[0];
+  }
+  var elementString = 'The numbers ' + testArray + ' have a product of ' + runningMultiply + '.';
+  return [runningMultiply, elementString]; //eslint-disable-line
 
 }
 
 // Here is the test for multiplyArray(); uncomment it to run it
-// testMultiplyArray(2,3,4);
+testMultiplyArray(2,3,4);
 
 // Once you get the test passing, do an a-c-p cycle and synchronize the code between GitHub and your laptop. You're done! Submit the link to the repo following the instructions in Canvas.
